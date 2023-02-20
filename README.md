@@ -1,8 +1,8 @@
 # Concordium Hackathon
 
 ## Install Rust
-	![alt text](https://ibb.co/KWCHTMm)
-	![alt text](https://ibb.co/qFGMcJp)
+![rust1](Screen Shot 2023-02-20 at 12.13.08.png)
+![rust2](Screen Shot 2023-02-20 at 12.21.36.png)
 
 ## Install cargo-concordium
 	![alt text](https://ibb.co/KVfjBg7)
